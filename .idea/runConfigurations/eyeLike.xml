@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="eyeLike" type="CMakeRunConfiguration" factoryName="Application" singleton="true" WORKING_DIR="file://$PROJECT_DIR$/build" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="eyelike_project" TARGET_NAME="eyeLike" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eyelike_project" RUN_TARGET_NAME="eyeLike">
+    <envs>
+      <env name="OpenCV_DIR" value="/Users/verachadw/Workspaces/Thesis/opencv-3.1.0/build" />
+    </envs>
+    <method />
+  </configuration>
+</component>
